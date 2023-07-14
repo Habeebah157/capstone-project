@@ -4,8 +4,6 @@ Pod Members: **Habeebah Muse, Angelica Ramirez, Lucia Barboza**
 
 ## Problem Statement
 
-Insert your groups problem statement and target audience.
-
 The problem that our capstone pod would like to solve are the issues that come with relocating to a different place (city/state). People relocating lack the experience and the familiarity of the city or area to choose housing that is safe and aligns with their hobbies, values, and lifestyle. They lack knowledge or awareness and the sense of the area like the accessibility or public transportation. Our target audience are college students and interns.
 
 ## Description
