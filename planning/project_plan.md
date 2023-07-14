@@ -54,9 +54,9 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 - Registration Page
 - Login Page
 - Unregistered Page
-- More Information Page
-- The matched cities list page
-- The user preferences after new user's page
+- More Information Page ![Alt text](image-1.png)
+- The matched cities list page ![Alt text](image.png)
+- The user preferences after new user's page ![Alt text](image-2.png)
 - The about us page
 
 ## Data Model
